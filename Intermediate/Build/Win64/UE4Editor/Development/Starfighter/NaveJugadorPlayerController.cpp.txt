@@ -1,0 +1,16 @@
+D:\Unreal Projects\Starfighter\Intermediate\Build\Win64\UE4Editor\Development\Starfighter\Definitions.Starfighter.h
+D:\Unreal Projects\Starfighter\Source\Starfighter\NaveJugadorPlayerController.h
+D:\Unreal Projects\Starfighter\Intermediate\Build\Win64\UE4Editor\Inc\Starfighter\NaveJugadorPlayerController.generated.h
+D:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\kismet/GameplayStatics.h
+D:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+D:\Unreal Engine\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+D:\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+D:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+D:\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+D:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\kismet\GameplayStaticsTypes.h
+D:\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+D:\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+D:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraActor.h
+D:\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraActor.generated.h
+D:\Unreal Projects\Starfighter\Source\Starfighter\NaveJugador.h
+D:\Unreal Projects\Starfighter\Intermediate\Build\Win64\UE4Editor\Inc\Starfighter\NaveJugador.generated.h

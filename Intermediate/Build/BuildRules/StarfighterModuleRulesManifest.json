@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\Starfighter\\Source\\Starfighter\\Starfighter.Build.cs",
+		"D:\\Unreal Projects\\Starfighter\\Source\\Starfighter.Target.cs",
+		"D:\\Unreal Projects\\Starfighter\\Source\\StarfighterEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

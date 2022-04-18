@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Starfighter.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{A1D18306-A909-4B4F-9F15-53F55A6FE91F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Starfighter.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\StarfighterEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FAD21973-92F0-4686-93B8-45629E22346F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Starfighter">
+      <UniqueIdentifier>{C858AC7F-A754-45E4-B86B-745DEAD752C5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Starfighter\NaveJugador.cpp">
+      <Filter>Source\Starfighter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Starfighter\NaveJugador.h">
+      <Filter>Source\Starfighter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Starfighter\NaveJugadorPlayerController.cpp">
+      <Filter>Source\Starfighter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Starfighter\NaveJugadorPlayerController.h">
+      <Filter>Source\Starfighter</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Starfighter\Starfighter.Build.cs">
+      <Filter>Source\Starfighter</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Starfighter\Starfighter.cpp">
+      <Filter>Source\Starfighter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Starfighter\Starfighter.h">
+      <Filter>Source\Starfighter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Starfighter\StarfighterGameModeBase.cpp">
+      <Filter>Source\Starfighter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Starfighter\StarfighterGameModeBase.h">
+      <Filter>Source\Starfighter</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

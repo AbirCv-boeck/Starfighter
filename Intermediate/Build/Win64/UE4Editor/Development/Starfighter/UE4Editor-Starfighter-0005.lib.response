@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Starfighter-0005.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\Starfighter\Intermediate\Build\Win64\StarfighterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal Projects\Starfighter\Intermediate\Build\Win64\UE4Editor\Development\Starfighter\NaveJugador.cpp.obj"
+"D:\Unreal Projects\Starfighter\Intermediate\Build\Win64\UE4Editor\Development\Starfighter\Starfighter.cpp.obj"
+"D:\Unreal Projects\Starfighter\Intermediate\Build\Win64\UE4Editor\Development\Starfighter\StarfighterGameModeBase.cpp.obj"
+"D:\Unreal Projects\Starfighter\Intermediate\Build\Win64\UE4Editor\Development\Starfighter\NaveJugador.gen.cpp.obj"
+"D:\Unreal Projects\Starfighter\Intermediate\Build\Win64\UE4Editor\Development\Starfighter\Starfighter.init.gen.cpp.obj"
+"D:\Unreal Projects\Starfighter\Intermediate\Build\Win64\UE4Editor\Development\Starfighter\StarfighterGameModeBase.gen.cpp.obj"
+"D:\Unreal Projects\Starfighter\Intermediate\Build\Win64\UE4Editor\Development\Starfighter\Default.rc2.res"
+/OUT:"D:\Unreal Projects\Starfighter\Intermediate\Build\Win64\UE4Editor\Development\Starfighter\UE4Editor-Starfighter-0005.lib"

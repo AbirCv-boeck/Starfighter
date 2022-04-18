@@ -1,0 +1,2 @@
+D:\Unreal Projects\Starfighter\Intermediate\Build\Win64\UE4Editor\Development\Starfighter\Definitions.Starfighter.h
+D:\Unreal Projects\Starfighter\Source\Starfighter\Starfighter.h

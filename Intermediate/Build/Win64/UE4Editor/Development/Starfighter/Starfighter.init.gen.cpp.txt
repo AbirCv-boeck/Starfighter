@@ -1,0 +1,3 @@
+D:\Unreal Projects\Starfighter\Intermediate\Build\Win64\UE4Editor\Development\Starfighter\Definitions.Starfighter.h
+D:\Unreal Engine\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Unreal Engine\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
